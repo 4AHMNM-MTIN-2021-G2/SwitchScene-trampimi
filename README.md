@@ -1,31 +1,31 @@
-project Description
-Reference project for loading scenes with Untiy SceneManagement
+### project Description
+### Reference project for loading scenes with Untiy SceneManagement
 
-Development platform:
+### Development platform:
 Windows 10, Unity 2020.1.5f1, Visual Studio Community 2019
 
-Target platform:
+### Target platform:
 WebGL refRes (960x600)
 
-Visuals:
+### Visuals:
 
-Necessary setup/execution steps:
-Documentation:
+### Necessary setup/execution steps:
+### Documentation:
 
 https://docs.unity3d.com/ScriptReference/SceneManagement.SceneManager.html
 https://docs.unity3d.com/ScriptReference/SceneManagement.SceneManager.LoadScene.html
 Scenes have to be added in the Buildsettings under "Scenes in Build"
 
 
-Third party material:
+### Third party material:
 (if used Fonts, Sounds, Music, Graphics, Materials, Code etc.)
 unity API 
 
-Project state:
-90%
+### Project state:
+95%
 
-Limitations:
-Lessons Learned:
+### Limitations:
+### Lessons Learned:
 Basic usage of the loading scenes mechanics with the Unity's SceneManagement and basic usage of Buttons.
 
 Copyright by trampimi

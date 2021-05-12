@@ -130,6 +130,22 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 6024099652166909008, guid: 4b93211df46c6bb4ab235bd738680e0e, type: 3}
+      propertyPath: m_UiScaleMode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6024099652166909008, guid: 4b93211df46c6bb4ab235bd738680e0e, type: 3}
+      propertyPath: m_ReferenceResolution.x
+      value: 960
+      objectReference: {fileID: 0}
+    - target: {fileID: 6024099652166909009, guid: 4b93211df46c6bb4ab235bd738680e0e, type: 3}
+      propertyPath: m_RenderMode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6024099652166909009, guid: 4b93211df46c6bb4ab235bd738680e0e, type: 3}
+      propertyPath: m_Camera
+      value: 
+      objectReference: {fileID: 519420031}
     - target: {fileID: 6024099652166909010, guid: 4b93211df46c6bb4ab235bd738680e0e, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
@@ -228,7 +244,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6024099652259355736, guid: 4b93211df46c6bb4ab235bd738680e0e, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
-      value: Scene 3
+      value: Scene3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4b93211df46c6bb4ab235bd738680e0e, type: 3}
